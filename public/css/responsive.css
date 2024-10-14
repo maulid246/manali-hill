@@ -1,0 +1,199 @@
+/* Add this to your existing CSS file or create a new file named responsive.css */
+
+/* Mobile devices (max-width: 768px) */
+@media only screen and (max-width: 768px) {
+    /* Header section */
+    .header_section {
+      padding: 10px;
+    }
+    .navbar-brand {
+      margin-left: 10px;
+    }
+    .navbar-toggler {
+      margin-right: 10px;
+    }
+    .navbar-nav {
+      margin-top: 10px;
+    }
+    .nav-item {
+      margin-bottom: 10px;
+    }
+    .nav-link {
+      font-size: 16px;
+    }
+  
+    /* Hero section */
+    .hero_area {
+      padding: 20px;
+    }
+    .slider_section {
+      padding: 20px;
+    }
+  
+    /* Penjelasan section */
+    .penjelasan-manali {
+      padding: 20px;
+    }
+    .penjelasan_container {
+      margin-bottom: 20px;
+    }
+    .penjelasan_2 {
+      font-size: 16px;
+    }
+  
+    /* Why choose us section */
+    .why_choose {
+      padding: 20px;
+    }
+    .why_choose_us {
+      margin-bottom: 20px;
+    }
+    .image-text-section {
+      flex-direction: column;
+    }
+    .column {
+      margin-bottom: 20px;
+    }
+    .image-text-pair {
+      margin-bottom: 20px;
+    }
+    .main-text {
+      font-size: 18px;
+    }
+    .additional-text {
+      font-size: 16px;
+    }
+  
+    /* Akomodasi section */
+    .akomodasi {
+      padding: 20px;
+    }
+    .card {
+      margin-bottom: 20px;
+    }
+    .card img {
+      width: 40px;
+    }
+    .card h3 {
+      font-size: 18px;
+    }
+    .card p {
+      font-size: 16px;
+    }
+  
+    /* Rukost section */
+    .ruko {
+      padding: 20px;
+    }
+    .content {
+      margin-bottom: 20px;
+    }
+    .main-image {
+      width: 100%;
+    }
+    .text-content {
+      margin-top: 20px;
+    }
+    .tipe {
+      font-size: 24px;
+    }
+    .rukost {
+      font-size: 20px;
+    }
+    .image-text-group {
+      flex-direction: column;
+    }
+    .image-text {
+      margin-bottom: 20px;
+    }
+    .luas {
+      font-size: 18px;
+    }
+    .luas1 {
+      font-size: 18px;
+    }
+    .button {
+      font-size: 18px;
+    }
+  
+    /* Program-landing section */
+    .program-landing {
+      padding: 20px;
+    }
+    .program-title {
+      font-size: 24px;
+    }
+    .image-container {
+      margin-bottom: 20px;
+    }
+    .image-box {
+      margin-bottom: 20px;
+    }
+    .program-button {
+      font-size: 18px;
+    }
+  
+    /* Galeri section */
+    .slider-section {
+      padding: 20px;
+    }
+    .slider-title {
+      font-size: 24px;
+    }
+    .slider-container {
+      margin-bottom: 20px;
+    }
+    .slide {
+      margin-bottom: 20px;
+    }
+    .slider-nav {
+      margin-bottom: 20px;
+    }
+    .prev {
+      margin-right: 10px;
+    }
+    .next {
+      margin-left: 10px;
+    }
+  
+    /* Youtube section */
+    .youtube-section {
+      padding: 20px;
+    }
+    .youtube-container {
+      margin-bottom: 20px;
+    }
+    iframe {
+      width: 100%;
+    }
+  
+    /* Footer section */
+    .footer-section {
+      padding: 20px;
+    }
+    .footer-left {
+      margin-bottom: 20px;
+    }
+    .footer-center {
+      margin-bottom: 20px;
+    }
+    .footer-text {
+      font-size: 16px;
+    }
+    .footer-images {
+      margin-bottom: 20px;
+    }
+    .footer-right {
+      margin-bottom: 20px;
+    }
+  }
+  
+  /* Tablet devices (max-width: 1024px) */
+  @media only screen and (max-width: 1024px) {
+    /* Add styles for tablet devices here */
+  }
+  
+  /* Desktop devices (min-width: 102 5px) */
+  @media only screen and (min-width: 1025px) {
+    /* Add styles for desktop devices here */
+  }
